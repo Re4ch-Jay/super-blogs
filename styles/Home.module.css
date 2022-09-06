@@ -1,0 +1,18 @@
+
+.btn{
+  text-align: center;
+  border-radius: 8px;
+  background-color: #d38ade;
+  border: 1px solid #fff;
+  color: #fff;
+  font-size: 18px;
+  text-decoration: none;
+  padding: 10px 40px;
+  margin-top: 20px;
+}
+
+.btn:hover{
+  background-color: #fff;
+  border: 1px solid #d38ade;
+  color: #d38ade;
+}
