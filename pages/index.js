@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Link from 'next/link'
 export default function Home() {
@@ -8,7 +7,6 @@ export default function Home() {
     <Head>
       <title>Super Blogs | Home</title>
     </Head>
-    <Image src=''/>
     <div className='content'>
       <h1>Home</h1> 
       <p>This project cover about Next Js. Incluede router, dynamic router, fetch data, 404 pages...</p>
