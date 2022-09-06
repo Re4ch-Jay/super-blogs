@@ -13,7 +13,7 @@ const Reviews = ({reviews}) => {
     return ( 
         <>
         <Head>
-            <title>Super Blog | Review</title>
+            <title>Super Blog | Reviews</title>
         </Head>
         <div className="content">
             <h1>Reviews</h1>
