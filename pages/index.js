@@ -6,6 +6,7 @@ export default function Home() {
     <>
     <Head>
       <title>Super Blogs | Home</title>
+      <meta name='keywords' content='phatpanhareach'/>
     </Head>
     <div className='content'>
       <h1>Home</h1> 

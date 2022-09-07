@@ -4,6 +4,7 @@ const Contact = () => {
         <>
         <Head>
             <title>Super Blogs | Contact</title>
+            <meta name='keywords' content='phatpanhareach'/>
         </Head>
         
         <div className="content">

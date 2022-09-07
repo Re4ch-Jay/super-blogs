@@ -33,6 +33,7 @@ const Details = ({data}) => {
         <>  
             <Head>
                 <title>Super Blog | Detail</title>
+                <meta name='keywords' content='phatpanhareach'/>
             </Head>
             <div className="content">
                 <h1>Blogs id: {data.id}</h1>

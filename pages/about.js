@@ -4,6 +4,7 @@ const About = () => {
         <>
         <Head>
             <title>Super Blogs | About</title>
+            <meta name='keywords' content='phatpanhareach'/>
         </Head>
         
         <div className="content">

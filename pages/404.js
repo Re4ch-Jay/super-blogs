@@ -14,6 +14,7 @@ const NotFound = () => {
         <>
         <Head>
             <title>Super Blog | 404</title>
+            <meta name='keywords' content='phatpanhareach'/>
         </Head>
         <div className="notfound">
             <h1>Opps... sorry!</h1>

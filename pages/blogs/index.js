@@ -13,6 +13,7 @@ const Blogs = ({data}) => {
         <>
         <Head>
             <title>Super Blogs | Detail</title>
+            <meta name='keywords' content='phatpanhareach'/>
         </Head>
         <div className="content">
             <h1>Blogs</h1>

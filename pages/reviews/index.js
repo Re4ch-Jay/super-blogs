@@ -14,6 +14,7 @@ const Reviews = ({reviews}) => {
         <>
         <Head>
             <title>Super Blog | Reviews</title>
+            <meta name='keywords' content='phatpanhareach'/>
         </Head>
         <div className="content">
             <h1>Reviews</h1>

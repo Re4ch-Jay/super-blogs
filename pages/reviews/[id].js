@@ -30,6 +30,7 @@ const ReviewDetails = ({reviews}) => {
         <>
         <Head>
             <title>Super Blog | Reviews</title>
+            <meta name='keywords' content='phatpanhareach'/>
         </Head>
         <div className="content">
         <h1>Reviews Detail</h1>
